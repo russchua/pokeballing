@@ -178,62 +178,62 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     // Index 2
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/beastball.png'),
                       label: Text('Beast Balls'),
                     ),
                     // Index 3
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/dreamball.png'),
                       label: Text('Dream Balls'),
                     ),
                     // Index 4
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/fastball.png'),
                       label: Text('Fast Balls'),
                     ),
                     // Index 5
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/friendball.png'),
                       label: Text('Friend Balls'),
                     ),
                     // Index 6
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/heavyball.png'),
                       label: Text('Heavy Balls'),
                     ),
                     // Index 7
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/levelball.png'),
                       label: Text('Level Balls'),
                     ),
                     // Index 8
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/loveball.png'),
                       label: Text('Love Balls'),
                     ),
                     // Index 9
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/lureball.png'),
                       label: Text('Lure Balls'),
                     ),
                     // Index 10
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/masterball.png'),
                       label: Text('Master Balls'),
                     ),
                     // Index 11
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/moonball.png'),
                       label: Text('Moon Balls'),
                     ),
                     // Index 12
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/safariball.png'),
                       label: Text('Safari Balls'),
                     ),
                     // Index 13
                     NavigationRailDestination(
-                      icon: Icon(Icons.timer),
+                      icon: Image.asset('assets/icons/sportball.png'),
                       label: Text('Sport Balls'),
                     ),
                   ],
